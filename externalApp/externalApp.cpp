@@ -18,9 +18,7 @@ int main()
 		}
 	}
 
-
 	string fileNameFormated = "\\\\.\\" + fileName + ":";
-
 
 	BOOT_NTFS pBootRecord;
 
