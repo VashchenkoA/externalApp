@@ -28,5 +28,7 @@ int main()
 	{
 		PrintBootSectInfo(pBootRecord);
 	}
-
+	
+	system("pause");
+	return 0;
 }
